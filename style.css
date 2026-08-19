@@ -16,3 +16,14 @@ button{
     background-color:#f08804;
     color:white;
 }
+#footer{
+    background-color:#0f1111;
+    height:60px;
+}
+footer{
+    text-align:center;
+    color:white;
+}
+main{
+    height:450px;
+}

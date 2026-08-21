@@ -24,6 +24,30 @@ footer{
     text-align:center;
     color:white;
 }
-main{
-    height:450px;
+#contentbox1{
+   height:100px;
+   width:100px;
+   color:cornsilk;
+   border:solid black 3px;
+   display:inline-block;
+   background-color:rgba(255,0,0,0.5);
+}
+#contentbox2{
+   height:100px;
+   width:100px;
+   color:cornsilk;
+   border:solid black 3px;
+   display:inline-block;
+   background-color:rgba(0,0,255,0.5);
+}
+#contentbox3{
+   height:100px;
+   width:100px;
+   color:cornsilk;
+   border:solid black 3px;
+   display:inline-block;
+   background-color:rgba(0,255,0,0.5);
+}
+body{
+    height:475px;
 }
